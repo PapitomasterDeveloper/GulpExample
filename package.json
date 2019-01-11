@@ -1,0 +1,27 @@
+{
+  "name": "gulp_example",
+  "version": "1.0.0",
+  "description": "A simple example of how to use Gulp and the capabilities of itself by doing common tasks like Minification, Concatenation, Cache busing, Testing, Linting, Dev Servers, etc.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-sass": "^4.0.2",
+    "gulp-uglify": "^3.0.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PapitomasterDeveloper/GulpExample.git"
+  },
+  "author": "Miguel Angel Cavazos Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PapitomasterDeveloper/GulpExample/issues"
+  },
+  "homepage": "https://github.com/PapitomasterDeveloper/GulpExample#readme"
+}
